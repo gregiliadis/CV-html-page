@@ -1,1 +1,1 @@
-# CV HTML page
+# CV template
